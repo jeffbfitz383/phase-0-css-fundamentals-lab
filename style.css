@@ -3,3 +3,37 @@ body {
   height: 100%;
   margin: 0;
 }
+
+
+header {
+  align: auto;
+}
+
+img {
+  align: center ;
+}
+
+nav {
+  background-color: gray;
+}
+
+nav > a {
+ padding: 10 px;
+}
+
+figcaption {
+  align: center;
+}
+
+#featured-property > p {
+  width: 800px;
+}
+
+#details > div {
+  align: left;
+}
+
+#section ~ div{
+  background-color: orange;
+  width: 25%;
+}
